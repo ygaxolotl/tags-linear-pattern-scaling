@@ -3,7 +3,7 @@ Code for ICLR24 CCML Paper submission.
 
 This code explains the linear pattern scaling model via a Jupyter notebook tutorial. The tutorial is also intended to help readers get started with machine learning for climate modeling. To read the tutorial go to:
 
-[climate_emulator_tutorial.ipynb](https://nbviewer.org/github/ygaxolotls/tags-linear-pattern-scaling/blob/main/climate_emulator_tutorial.ipynb)
+[climate_emulator_tutorial.ipynb](https://github.com/ygaxolotl/tags-linear-pattern-scaling/blob/main/climate_emulator_tutorial.ipynb)
 
 The results of linear pattern scaling on ClimateBenchv1.0 can be reproduced with a 2nd notebook (see below).
 
