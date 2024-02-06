@@ -24,7 +24,7 @@ ipython kernel install --user --name=emcli # Link conda environment to jupyter n
 jupyter notebook climate_emulator_tutorial.ipynb
 ```
 
-# Reproduce linear pattern scaling results on ClimateBenchv1.0 for all climate variabes
+# Reproduce linear pattern scaling table on ClimateBenchv1.0 for all climate variabes
 ```
 jupyter notebook notebooks/calculate_climatebench_metrics.ipynb
 ```
