@@ -1,5 +1,5 @@
-# climate-emulator-tutorial
-Code for ICLR24 CCML Paper submission: A cautionary tale about deep learning based climate emulators
+# A cautionary tale about deep learning based climate emulators
+Code for ICLR24 CCML Paper submission.
 
 This code explains the linear pattern scaling model via a Jupyter notebook tutorial. The tutorial is also intended to help readers get started with machine learning for climate modeling. To read the tutorial go to:
 
@@ -9,8 +9,8 @@ The results of linear pattern scaling on ClimateBenchv1.0 can be reproduced with
 
 # Installation
 ```
-git clone git@github.com:ygaxolotl/tags-climate-emulator-tutorial.git
-cd tags-climate-emulator-tutorial
+git clone git@github.com:ygaxolotl/tags-linear-pattern-scaling.git
+cd tags-linear-pattern-scaling
 conda create --name emcli
 conda activate emcli
 conda install pip
